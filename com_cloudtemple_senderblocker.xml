@@ -1,0 +1,4 @@
+<zimlet name="com_cloudtemple_senderblocker" version="1.0.1" label="Block Senders" description="Allows you to blacklist/whitelist sender from a contextual menu">
+  <include>com_cloudtemple_senderblocker.js</include>
+  <handlerObject>com_cloudtemple_senderblockerHandlerObject</handlerObject>
+</zimlet>
