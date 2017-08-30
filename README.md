@@ -1,13 +1,20 @@
 # Sender Blocker
 *created by: ccs.uoguelph*
+*modified by : Cloud-Temple Grand Ouest*
 
-[this zimlet](https://www.zimbra.org/extend/items/view/sender-blocker) was no longer updated. **It's now compatible for zimbra 8.x and +. and
-block/unblock domain(s) has been added.**
+[this zimlet](https://www.zimbra.org/extend/items/view/sender-blocker) was no longer kept up to date.
+**It is now fully compatible with zimbra 8.x and +. **
 
-Allows quick access to the Whitelist/Blacklist feature in Zimbra from the
-Mailbox.
+# What is it ?  
 
-To make use of this zimlet:
+SenderBlocker allows Zimbra users to block incoming mails from given adresses.
+The zimlet acts as a shortcut to the account Black/WhiteList, therefore revolves around Zimbra's blacklisting function.
+
+# What's new ?  
+
+ * User ability to block or unblock messages coming from given domains.
+ 
+# To make use of this zimlet 
 
 * Select one or more messages.
 * Right-click to open the context menu.
